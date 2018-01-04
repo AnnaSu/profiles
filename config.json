@@ -1,23 +1,27 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
-  "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
-  ],
-  "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
-  ],
-  "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
-  ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+    "username": "Anna",
+    "name": "Anna Su",
+    "projects": [
+        "https://styleme.pixnet.net/",
+        "https://m.pixgoods.pixnet.net/",
+        "https://github.com/AnnaSu/todolist-pwa-demo-react",
+        "https://github.com/AnnaSu/simple-pwa-demo",
+        "https://github.com/AnnaSu/simple-html5-demo"
+    ],
+    "background": ["Department of Commercial Design & Information Management", "Front-end Engineer"],
+    "interests": [
+        "JavaScript (how to build web, desktop and mobile apps)",
+        "React(Redux)",
+        "StoryBook",
+        "CSS Module",
+        "Redux Observable",
+        "Sass",
+        "Susy",
+        "Service Worker",
+        "Webpack & Babel",
+        "NodeJS",
+        "Nginx"
+    ],
+    "twitter": "https://twitter.com/newstory0113",
+    "github": "https://github.com/AnnaSu"
 }
